@@ -82,7 +82,7 @@
   description: |
     揭示了人类反馈强化学习中的准确性悖论：使用中等准确率奖励模型训练的语言模型
     表现竟然优于使用高准确率奖励模型的语言模型，为RLHF研究开辟了新方向。
-  image: images/papers/rlhf-paradox.jpg
+  image: images/citations/2410_06554.png
   buttons:
     - type: source
       link: https://github.com/EIT-NLP/AccuracyParadox-RLHF

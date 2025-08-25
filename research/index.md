@@ -11,18 +11,18 @@ nav:
 
 {% include section.html %}
 
-## 特色项目
+## 项目
 
 {% include list.html data="projects" component="card" filters="group: featured" %}
 
 {% include section.html %}
 
-## 全部论文
+## 论文
 
-{% include list.html data="sources" component="citation_manual" style="rich" %}
+{% include list.html data="papers" component="citation_manual" style="rich" %}
 
 {% include section.html %}
 
-## 更多项目
+<!-- ## 更多项目
 
-{% include list.html data="projects" component="card" filters="group: more" %}
+{% include list.html data="projects" component="card" filters="group: more" %} -->
