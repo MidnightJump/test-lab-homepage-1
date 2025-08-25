@@ -16,6 +16,17 @@
   publisher: ACM Transactions on Software Engineering and Methodology
   date: '2025-08-14'
   link: https://doi.org/g9x7c7
+  type: paper
+  description: "本文系统评估了参数高效微调方法在软件工程任务中的表现，为软件工程领域的模型优化提供了重要指导。"
+  image: https://arxiv.org/html/2312.15614v1/x1.png
+  buttons:
+  - type: source
+    link: https://github.com/your-repo/parameter-efficient-tuning
+    text: "代码仓库"
+  tags:
+  - "参数高效微调"
+  - "软件工程"
+  - "机器学习"
   orcid: 0000-0002-0217-2469
   xiaoyu-shen: true
   plugin: orcid.py
