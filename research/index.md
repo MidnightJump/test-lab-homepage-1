@@ -19,7 +19,7 @@ nav:
 
 ## 全部论文
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="sources" component="citation_manual" style="rich" %}
 
 {% include section.html %}
 
