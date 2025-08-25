@@ -1,264 +1,169 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1145/3722107
+  title: Experimental Evaluation of Parameter-Efficient Fine-Tuning for Software Engineering
+    Tasks
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Wentao Zou
+  - Zongwen Shen
+  - Qi Li
+  - Jidong Ge
+  - Chuanyi Li
+  - Xiang Chen
+  - Xiaoyu Shen
+  - Liguo Huang
+  - Bin Luo
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2025-08-14'
+  link: https://doi.org/g9x7c7
+  orcid: 0000-0002-0217-2469
+  xiaoyu-shen: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1145/3696410.3714842
+  title: Large Language Models Empowered Personalized Web Agents
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Hongru Cai
+  - Yongqi Li
+  - Wenjie Wang
+  - Fengbin Zhu
+  - Xiaoyu Shen
+  - Wenjie Li
+  - Tat-Seng Chua
+  publisher: Proceedings of the ACM on Web Conference 2025
+  date: '2025-04-22'
+  link: https://doi.org/g9x7c9
+  orcid: 0000-0002-0217-2469
+  xiaoyu-shen: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/LRA.2025.3544927
+  title: 'DRL-DCLP: A Deep Reinforcement Learning-Based Dimension-Configurable Local
+    Planner for Robot Navigation'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Wei Zhang
+  - Shanze Wang
+  - Mingao Tan
+  - Zhibo Yang
+  - Xianghui Wang
+  - Xiaoyu Shen
+  publisher: IEEE Robotics and Automation Letters
+  date: '2025-04-01'
+  link: https://doi.org/g9x7db
+  orcid: 0000-0002-0217-2469
+  xiaoyu-shen: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/TCBB.2018.2859380
+  title: Simulating the Large-Scale Erosion of Genomic Privacy Over Time
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Michael Backes
+  - Pascal Berrang
+  - Mathias Humbert
+  - Xiaoyu Shen
+  - Verena Wolf
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2018-09-01'
+  link: https://doi.org/gpfzkt
+  orcid: 0000-0002-0217-2469
+  xiaoyu-shen: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.datak.2018.05.007
+  title: 'A comprehensive study: Sentence compression with linguistic knowledge-enhanced
+    gated neural network'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Yang Zhao
+  - Xiaoyu Shen
+  - Hajime Senuma
+  - Akiko Aizawa
+  publisher: Data &amp; Knowledge Engineering
+  date: '2018-09-01'
+  link: https://doi.org/gfmbn6
+  orcid: 0000-0002-0217-2469
+  xiaoyu-shen: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: arxiv:2410.06765
+  title: 'To Preserve or To Compress: An In-Depth Study of Connector Selection in
+    Multimodal Large Language Models'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
+  - Junyan Lin
+  - Haoran Chen
+  - Dawei Zhu
+  - Xiaoyu Shen
+  publisher: arXiv
+  date: '2024-10-10'
+  link: https://arxiv.org/abs/2410.06765
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: "\u7CFB\u7EDF\u5730\u63A2\u8BA8\u4E86\u8FDE\u63A5\u5668\u5BF9MLLM\u6027\
+    \u80FD\u7684\u5F71\u54CD\uFF0C\u5C06\u8FDE\u63A5\u5668\u5206\u4E3A\u4FDD\u7559\
+    \u7279\u5F81\u578B\u548C\u7F29\u7279\u5F81\u578B\u4E24\u7C7B\uFF0C \u4E3AMLLM\u67B6\
+    \u6784\u8BBE\u8BA1\u63D0\u4F9B\u4E86\u91CD\u8981\u6307\u5BFC\u3002\n"
+  image: images/papers/mllm-connector.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    link: https://github.com/EIT-NLP/Connector-Selection-for-MLLM
+    text: "\u4EE3\u7801\u4ED3\u5E93"
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - "\u591A\u6A21\u6001\u5B66\u4E60"
+  - "\u5927\u8BED\u8A00\u6A21\u578B"
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: arxiv:2404.14122
+  title: 'Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data
+    in Misaligned Languages Suffice?'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Dawei Zhu
+  - Pinzhen Chen
+  - Miaoran Zhang
+  - Barry Haddow
+  - Xiaoyu Shen
+  - Dietrich Klakow
+  publisher: arXiv
+  date: '2024-10-07'
+  link: https://arxiv.org/abs/2404.14122
+  type: paper
+  description: "\u91CD\u65B0\u5BA1\u89C6\u591A\u8BED\u8A00\u673A\u5668\u7FFB\u8BD1\
+    \u6210\u529F\u7684\u5173\u952E\u56E0\u7D20\uFF0C\u53D1\u73B0LLMs\u5728\u4EC5\u5FAE\
+    \u8C0332\u5BF9\u5E73\u884C\u53E5\u5B50\u7684\u60C5\u51B5\u4E0B \u5C31\u8868\u73B0\
+    \u51FA\u4E86\u5F3A\u5927\u7684\u7FFB\u8BD1\u80FD\u529B\u3002\n"
+  image: images/papers/llm-translation.jpg
+  buttons:
+  - type: source
+    link: https://github.com/uds-lsv/mt-sft
+    text: "\u4EE3\u7801\u4ED3\u5E93"
+  tags:
+  - "\u673A\u5668\u7FFB\u8BD1"
+  - "\u5927\u8BED\u8A00\u6A21\u578B"
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2410.06554
+  title: 'The Accuracy Paradox in RLHF: When Better Reward Models Don''t Yield Better
+    Language Models'
+  authors:
+  - Yanjun Chen
+  - Dawei Zhu
+  - Yirong Sun
+  - Xinghao Chen
+  - Wei Zhang
+  - Xiaoyu Shen
+  publisher: arXiv
+  date: '2024-10-17'
+  link: https://arxiv.org/abs/2410.06554
+  type: paper
+  description: "\u63ED\u793A\u4E86\u4EBA\u7C7B\u53CD\u9988\u5F3A\u5316\u5B66\u4E60\
+    \u4E2D\u7684\u51C6\u786E\u6027\u6096\u8BBA\uFF1A\u8BAD\u7EC3\u65F6\u4F7F\u7528\
+    \u4E2D\u7B49\u51C6\u786E\u7387\u5956\u52B1\u6A21\u578B\u7684\u8BED\u8A00\u6A21\
+    \u578B \u8868\u73B0\u4F18\u4E8E\u4F7F\u7528\u9AD8\u51C6\u786E\u7387\u5956\u52B1\
+    \u6A21\u578B\u7684\u8BED\u8A00\u6A21\u578B\u3002\n"
+  image: images/papers/rlhf-paradox.jpg
+  buttons:
+  - type: source
+    link: https://github.com/EIT-NLP/AccuracyParadox-RLHF
+    text: "\u4EE3\u7801\u4ED3\u5E93"
+  tags:
+  - "\u5F3A\u5316\u5B66\u4E60"
+  - "\u4EBA\u7C7B\u53CD\u9988"
   plugin: sources.py
   file: sources.yaml
