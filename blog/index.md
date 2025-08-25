@@ -1,5 +1,5 @@
 ---
-title: 博客  
+title: BLOG  
 nav:
   order: 4
   tooltip: 研究动态与思考

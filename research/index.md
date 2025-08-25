@@ -1,5 +1,5 @@
 ---
-title: 研究
+title: Research
 nav:
   order: 1
   tooltip: 研究项目与成果

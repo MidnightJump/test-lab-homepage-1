@@ -1,5 +1,5 @@
 ---
-title: 团队
+title: Team
 nav:
   order: 3
   tooltip: 课题组成员
