@@ -1,7 +1,7 @@
 - title: "多模态大语言模型连接器选择研究"
   subtitle: "To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models"
   group: featured
-  image: images/projects/mllm-connector.jpg
+  image: images/citations/2404_14122.png
   link: https://github.com/EIT-NLP/Connector-Selection-for-MLLM
   description: 系统探讨连接器对多模态大语言模型性能的影响，为MLLM架构设计提供重要指导
   repo: EIT-NLP/Connector-Selection-for-MLLM
