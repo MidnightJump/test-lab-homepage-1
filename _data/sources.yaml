@@ -98,7 +98,7 @@
 
 # ========== 2023年论文 ==========
 
-- id: manual:info-search-2023
+- id: doi:10.1000/example.2023.001
   type: paper
   year: 2023
   title: "Efficient Information Retrieval with Advanced Semantic Search"
@@ -125,7 +125,7 @@
 
 # ========== 更早期论文 ==========
 
-- id: manual:early-work-2022
+- id: doi:10.1000/example.2022.001
   type: paper
   year: 2022
   title: "Neural Language Models for Cross-lingual Understanding"
@@ -144,7 +144,7 @@
 
 # ========== 会议论文和期刊论文分类示例 ==========
 
-- id: manual:journal-paper-2023
+- id: doi:10.1000/example.2023.002
   type: journal
   year: 2023
   title: "Deep Learning Approaches for Multilingual NLP: A Comprehensive Survey"
@@ -168,7 +168,7 @@
 
 # ========== 预印本和工作论文 ==========
 
-- id: manual:preprint-2024
+- id: arxiv:2403.15000
   type: preprint
   year: 2024
   title: "Towards More Efficient Training of Large Language Models"
@@ -190,7 +190,7 @@
 
 # ========== 书籍章节和其他出版物 ==========
 
-- id: manual:book-chapter-2023
+- id: doi:10.1000/example.2023.003
   type: book
   year: 2023
   title: "Natural Language Processing in the Era of Large Language Models"
