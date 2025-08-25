@@ -1,81 +1,41 @@
 ---
+title: 首页
 ---
 
-# MidnightJump's Website
+# 宁波东方理工大学自然语言处理课题组
 
-An engaging 1-3 sentence description of your lab.
+我们是[宁波东方理工大学（暂名）](https://www.eitech.edu.cn/)自然语言处理课题组。东方理工大学坐落于我国东南沿海重要港口城市、历史文化名城宁波，致力于汇聚全球顶尖人才，培育高水平、创新型、国际化的新型研究型大学。
 
 {% include section.html %}
 
-## Highlights
+## 最新动态
 
-{% capture text %}
+{% include list.html data="citations" component="citation" filters="group: featured" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include section.html %}
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+## 研究方向
 
-{% endcapture %}
+我们的研究工作重点是通过创新的方法推进自然语言处理的发展，使机器能够深入理解、生成并推理人类语言。我们涵盖的研究领域广泛，包括：
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+{% include feature.html image="images/research/multimodal.svg" link="research" title="多模态学习" text="探索视觉、语言等多种模态信息的融合与理解" %}
 
-{% capture text %}
+{% include feature.html image="images/research/retrieval.svg" link="research" title="信息检索" text="开发高效的信息检索算法和系统" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include feature.html image="images/research/reasoning.svg" link="research" title="链式推理" text="提升机器的逻辑推理和复杂问题解决能力" %}
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+{% include section.html %}
 
-{% endcapture %}
+## 开放科学
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+我们实验室专注于开放科学，代码、模型和数据集将在GitHub上开源发布：
 
-{% capture text %}
+{% include button.html link="https://github.com/eit-nlp" text="访问我们的GitHub" icon="fa-brands fa-github" style="button" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include section.html %}
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+## 关注我们
 
-{% endcapture %}
+想了解更多内容，欢迎关注我们的微信公众号：**EIT-NLP**
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+{% include figure.html image="images/qrcode.png" width="200px" %}

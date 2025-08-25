@@ -1,23 +1,42 @@
-- id: doi:10.1371/journal.pcbi.1007128
+# 最新论文
+- id: arxiv:2410.06765
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: >
+    系统地探讨了连接器对MLLM性能的影响，将连接器分为保留特征型和缩特征型两类，
+    为MLLM架构设计提供了重要指导。
+  image: images/papers/mllm-connector.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://github.com/EIT-NLP/Connector-Selection-for-MLLM
+      text: 代码仓库
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - 多模态学习
+    - 大语言模型
+    
+- id: arxiv:2404.14122  
+  type: paper
+  description: >
+    重新审视多语言机器翻译成功的关键因素，发现LLMs在仅微调32对平行句子的情况下
+    就表现出了强大的翻译能力。
+  image: images/papers/llm-translation.jpg
+  buttons:
+    - type: source  
+      link: https://github.com/uds-lsv/mt-sft
+      text: 代码仓库
+  tags:
+    - 机器翻译
+    - 大语言模型
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: arxiv:2410.06554
+  type: paper  
+  description: >
+    揭示了人类反馈强化学习中的准确性悖论：训练时使用中等准确率奖励模型的语言模型
+    表现优于使用高准确率奖励模型的语言模型。
+  image: images/papers/rlhf-paradox.jpg
+  buttons:
+    - type: source
+      link: https://github.com/EIT-NLP/AccuracyParadox-RLHF  
+      text: 代码仓库
+  tags:
+    - 强化学习
+    - 人类反馈

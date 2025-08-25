@@ -1,27 +1,28 @@
 ---
-title: Research
+title: 研究
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 研究项目与成果
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}研究
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+我们的核心目标是开发高效算法，在实现最先进性能的同时，最大限度减少计算和资源需求。我们优先减少对大规模人工标注的依赖，加快训练速度，降低推理成本。
 
 {% include section.html %}
 
-## All
+## 特色项目
 
-{% include search-box.html %}
+{% include list.html data="projects" component="card" filters="group: featured" %}
 
-{% include search-info.html %}
+{% include section.html %}
+
+## 全部论文
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% include section.html %}
+
+## 更多项目
+
+{% include list.html data="projects" component="card" filters="group: more" %}
