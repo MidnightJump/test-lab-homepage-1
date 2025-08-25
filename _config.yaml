@@ -14,13 +14,13 @@ github: eit-nlp
 email: contact@eit-nlp.org
 wechat: EIT-NLP
 
-# 多语言支持
+# 改为Greene Lab模板的标准配置：
 plugins:
-  - jekyll-default-layout
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-relative-links
+  - jekyll-spaceship
   - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
 
 # 网站主题色彩
 theme_color: "#1976d2"
