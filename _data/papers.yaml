@@ -18,7 +18,7 @@
   date: '2024-04-22'
   link: https://arxiv.org/pdf/2404.14122
   description: "传统上，多语言机器翻译的成功归因于训练数据的三个关键因素：大规模数据量、多样化的翻译方向以及高质量的数据。在当前微调大语言模型（LLMs）以进行翻译的实践中，我们重新审视了这些因素的重要性。我们发现，LLMs 在仅微调 32 对平行句子的情况下就表现出了强大的翻译能力，并且微调单一翻译方向能够实现多方向的翻译。"
-  image: https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2404_14122.png
   buttons:
   - type: source
     link: https://github.com/uds-lsv/mt-sft
@@ -48,7 +48,7 @@
   date: '2024-10-09'
   link: https://arxiv.org/abs/2410.06554
   description: "人类反馈强化学习显著提升了自然语言处理的效果，通过训练使语言模型更符合人类预期。本研究探讨了更强的奖励模型是否必然导致更优的语言模型表现。本文通过使用QA-FEEDBACK数据集和基于Longformer的奖励模型，针对相关性、事实性和完整性任务进行实验，揭示了一个令人惊讽的悖论：训练时使用中等准确率奖励模型的语言模型表现优于那些使用高准确率奖励模型的语言模型。"
-  image: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2410_06554.png
   buttons:
   - type: source
     link: https://github.com/EIT-NLP/AccuracyParadox-RLHF
@@ -76,7 +76,7 @@
   date: '2024-07-17'
   link: https://arxiv.org/pdf/2407.17011
   description: "大型语言模型（LLMs）展现了显著的上下文学习（ICL）能力，然而其背后的工作机制仍未被充分理解。现有研究对ICL提出了两种相互矛盾的观点：一种强调演示中相似样本的重要性，指出标签正确性和更多示例的重要性；另一种则将ICL归因于LLM固有的任务识别能力，认为标签正确性和示例数量并非关键。在本研究中，我们提出了一个二维坐标系统，将这两种观点统一在一个系统框架中。"
-  image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2407_17011.png
   buttons:
   - type: source
     link: https://github.com/EIT-NLP/2D-Coordinate-System-for-ICL
@@ -104,7 +104,7 @@
   date: '2024-10-09'
   link: http://arxiv.org/abs/2410.06765
   description: "近年来，多模态大型语言模型（MLLMs）引起了产业界和学术界的广泛关注。根据融合位置的不同，MLLMs分为外部融合和内部融合架构，其中外部融合架构占主导地位。本文系统地探讨了连接器对MLLM性能的影响。具体而言，我们将连接器分为保留特征型和压缩特征型两类。通过统一的分类标准，我们将来自三个综合基准数据集（MMBench、MME、SEED-Bench）的子任务划分为粗粒度感知、细粒度感知和推理三种任务类型。"
-  image: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2410_06765.png
   buttons:
   - type: source
     link: https://github.com/EIT-NLP/Connector-Selection-for-MLLM
@@ -136,7 +136,7 @@
   date: '2024-10-04'
   link: https://arxiv.org/abs/2410.04691
   description: "微调和上下文学习（ICL）是两种常用的为大型语言模型注入任务特定知识的方法。通常认为，微调由于可以基于训练数据调整模型的内部参数，在有足够样本的情况下会优于ICL。然而，本文提出了一个反直觉的发现：对于隐式模式任务，ICL能够显著优于微调捕捉这些模式。我们构建了多个包含隐式模式的数据集，例如通过奇偶性确定答案的序列或在计算中识别可约项。"
-  image: https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2410_04691.png
   buttons:
   - type: source
     link: https://github.com/MikaStars39/ICLvsFinetune
@@ -165,7 +165,7 @@
   date: '2024-06-18'
   link: https://arxiv.org/pdf/2406.18134
   description: "检索增强生成（Retrieval-augmented generation，RAG）作为一种通过外部知识增强大型语言模型的框架，近年来备受关注。然而，其有效性在很大程度上依赖于模型的检索稳健性。如果模型缺乏检索稳健性，其性能将受限于检索器的准确性，当检索到的上下文与任务无关时，模型表现可能大幅下降。在本文中，我们评估了不同大型语言模型的'隐式'检索稳健性，要求它们直接输出最终答案，而不显式判断检索到的上下文的相关性。"
-  image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2406_18134.png
   buttons:
   - type: website
     link: https://arxiv.org/pdf/2406.18134
@@ -199,7 +199,7 @@
   date: '2023-09-16'
   link: https://arxiv.org/pdf/2309.16289
   description: "我们提出了LawBench，这是第一个由20个任务组成的评估基准，旨在评估大型语言模型（LLMs）在处理中文法律相关任务中的表现。LawBench经过精心设计，能够从广泛接受的布卢姆认知分类法对应的三个认知层次上，精确评估LLMs的法律能力。利用LawBench，我们对21个热门LLMs进行了全面的评估，并首次对其实际表现进行了比较分析，揭示了它们的相对优势与劣势。"
-  image: https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=300&h=200&fit=crop&crop=center
+  image: images/citations/2309_16289.png
   buttons:
   - type: source
     link: https://github.com/open-compass/LawBench/
@@ -212,189 +212,3 @@
   - "基准测试"
   - "大语言模型"
   repo: open-compass/LawBench
-- id: arxiv:2404.14122
-  type: paper
-  featured: true
-  year: 2024
-  title: 'Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data
-    in Misaligned Languages Suffice?'
-  authors:
-  - '**Dawei Zhu**'
-  - Pinzhen Chen
-  - Miaoran Zhang
-  - Barry Haddow
-  - '**Xiaoyu Shen**'
-  - Dietrich Klakow
-  publisher: arXiv preprint
-  date: '2024-04-22'
-  link: https://arxiv.org/pdf/2404.14122
-  description: "\u91CD\u65B0\u5BA1\u89C6\u591A\u8BED\u8A00\u673A\u5668\u7FFB\u8BD1\
-    \u6210\u529F\u7684\u5173\u952E\u56E0\u7D20\u3002\u7814\u7A76\u53D1\u73B0\uFF0C\
-    \u5927\u8BED\u8A00\u6A21\u578B\u5728\u4EC5\u5FAE\u8C0332\u5BF9\u5E73\u884C\u53E5\
-    \u5B50\u7684\u60C5\u51B5\u4E0B\n\u5C31\u8868\u73B0\u51FA\u4E86\u5F3A\u5927\u7684\
-    \u7FFB\u8BD1\u80FD\u529B\uFF0C\u6311\u6218\u4E86\u4F20\u7EDF\u5BF9\u5927\u89C4\
-    \u6A21\u6570\u636E\u7684\u4F9D\u8D56\u8BA4\u77E5\u3002\n"
-  image: images/citations/2404_14122.png
-  buttons:
-  - type: source
-    link: https://github.com/uds-lsv/mt-sft
-    text: "\u4EE3\u7801\u4ED3\u5E93"
-  - type: website
-    link: https://arxiv.org/pdf/2404.14122
-    text: "PDF\u4E0B\u8F7D"
-  tags:
-  - "\u673A\u5668\u7FFB\u8BD1"
-  - "\u5927\u8BED\u8A00\u6A21\u578B"
-  - "\u5C11\u6837\u672C\u5B66\u4E60"
-  repo: uds-lsv/mt-sft
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2410.06554
-  type: paper
-  featured: true
-  year: 2024
-  title: 'The Accuracy Paradox in RLHF: When Better Reward Models Don''t Yield Better
-    Language Models'
-  authors:
-  - '**Yanjun Chen**'
-  - '**Dawei Zhu**'
-  - Yirong Sun
-  - Xinghao Chen
-  - Wei Zhang
-  - '**Xiaoyu Shen**'
-  publisher: arXiv preprint
-  date: '2024-10-09'
-  link: https://arxiv.org/abs/2410.06554
-  description: "\u63ED\u793A\u4E86\u4EBA\u7C7B\u53CD\u9988\u5F3A\u5316\u5B66\u4E60\
-    \u4E2D\u7684\u51C6\u786E\u6027\u6096\u8BBA\uFF1A\u4F7F\u7528\u4E2D\u7B49\u51C6\
-    \u786E\u7387\u5956\u52B1\u6A21\u578B\u8BAD\u7EC3\u7684\u8BED\u8A00\u6A21\u578B\
-    \n\u8868\u73B0\u7ADF\u7136\u4F18\u4E8E\u4F7F\u7528\u9AD8\u51C6\u786E\u7387\u5956\
-    \u52B1\u6A21\u578B\u7684\u8BED\u8A00\u6A21\u578B\uFF0C\u4E3ARLHF\u7814\u7A76\u5F00\
-    \u8F9F\u4E86\u65B0\u65B9\u5411\u3002\n"
-  image: images/citations/2410_06554.png
-  buttons:
-  - type: source
-    link: https://github.com/EIT-NLP/AccuracyParadox-RLHF
-    text: "\u4EE3\u7801\u4ED3\u5E93"
-  - type: website
-    link: https://arxiv.org/abs/2410.06554
-    text: "arXiv\u8BBA\u6587"
-  tags:
-  - "\u5F3A\u5316\u5B66\u4E60"
-  - "\u4EBA\u7C7B\u53CD\u9988"
-  - "\u5956\u52B1\u6A21\u578B"
-  repo: EIT-NLP/AccuracyParadox-RLHF
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1000/example.2023.001
-  type: paper
-  year: 2023
-  title: Efficient Information Retrieval with Advanced Semantic Search
-  authors:
-  - "**\u7814\u7A76\u56E2\u961F\u6210\u54581**"
-  - "**\u7814\u7A76\u56E2\u961F\u6210\u54582**"
-  - '**Xiaoyu Shen**'
-  publisher: Conference on Information Retrieval
-  date: '2023-06-15'
-  link: https://example.com/paper-link
-  description: "\u63D0\u51FA\u4E86\u65B0\u7684\u8BED\u4E49\u641C\u7D22\u6846\u67B6\
-    \uFF0C\u663E\u8457\u63D0\u5347\u4E86\u4FE1\u606F\u68C0\u7D22\u7684\u51C6\u786E\
-    \u6027\u548C\u6548\u7387\u3002\n\u8BE5\u65B9\u6CD5\u5728\u591A\u4E2A\u6807\u51C6\
-    \u6570\u636E\u96C6\u4E0A\u90FD\u53D6\u5F97\u4E86\u6700\u4F18\u6027\u80FD\u3002\
-    \n"
-  image: images/citations/2410_06554.png
-  buttons:
-  - type: source
-    link: https://github.com/EIT-NLP/InfoSearch
-    text: "\u4EE3\u7801\u4ED3\u5E93"
-  tags:
-  - "\u4FE1\u606F\u68C0\u7D22"
-  - "\u8BED\u4E49\u641C\u7D22"
-  - "\u6DF1\u5EA6\u5B66\u4E60"
-  repo: EIT-NLP/InfoSearch
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1000/example.2022.001
-  type: paper
-  year: 2022
-  title: Neural Language Models for Cross-lingual Understanding
-  authors:
-  - '**Xiaoyu Shen**'
-  - Collaborator Name
-  publisher: International Conference on Computational Linguistics
-  date: '2022-10-12'
-  link: https://example.com/early-paper
-  description: "\u65E9\u671F\u5173\u4E8E\u8DE8\u8BED\u8A00\u7406\u89E3\u7684\u795E\
-    \u7ECF\u8BED\u8A00\u6A21\u578B\u7814\u7A76\uFF0C\u4E3A\u540E\u7EED\u591A\u8BED\
-    \u8A00\u5DE5\u4F5C\u5960\u5B9A\u4E86\u57FA\u7840\u3002\n"
-  # image: images/citations/2410_06554.png
-  tags:
-  - "\u8DE8\u8BED\u8A00\u7406\u89E3"
-  - "\u795E\u7ECF\u7F51\u7EDC"
-  - "\u8BED\u8A00\u6A21\u578B"
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1000/example.2023.002
-  type: journal
-  year: 2023
-  title: 'Deep Learning Approaches for Multilingual NLP: A Comprehensive Survey'
-  authors:
-  - '**Xiaoyu Shen**'
-  - International Collaborators
-  publisher: Journal of Artificial Intelligence Research
-  date: '2023-08-20'
-  link: https://example.com/journal-paper
-  description: "\u591A\u8BED\u8A00\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7684\u6DF1\
-    \u5EA6\u5B66\u4E60\u65B9\u6CD5\u7EFC\u5408\u6027\u8C03\u7814\uFF0C\u6DB5\u76D6\
-    \u4E86\u8BE5\u9886\u57DF\u7684\u6700\u65B0\u8FDB\u5C55\u548C\u672A\u6765\u8D8B\
-    \u52BF\u3002\n"
-  image: images/papers/survey-2023.jpg
-  tags:
-  - "\u7EFC\u5408\u8C03\u7814"
-  - "\u591A\u8BED\u8A00NLP"
-  - "\u6DF1\u5EA6\u5B66\u4E60"
-  buttons:
-  - type: website
-    link: https://example.com/journal-paper
-    text: "\u671F\u520A\u94FE\u63A5"
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2403.15000
-  type: preprint
-  year: 2024
-  title: Towards More Efficient Training of Large Language Models
-  authors:
-  - '**PhD Student**'
-  - '**Xiaoyu Shen**'
-  publisher: Under Review
-  date: '2024-03-15'
-  description: "\u6B63\u5728\u6295\u7A3F\u4E2D\u7684\u5DE5\u4F5C\uFF0C\u4E13\u6CE8\
-    \u4E8E\u63D0\u5347\u5927\u8BED\u8A00\u6A21\u578B\u8BAD\u7EC3\u6548\u7387\u7684\
-    \u65B0\u65B9\u6CD5\u3002\n"
-  tags:
-  - "\u6A21\u578B\u8BAD\u7EC3"
-  - "\u6548\u7387\u4F18\u5316"
-  - "\u5927\u8BED\u8A00\u6A21\u578B"
-  buttons:
-  - type: source
-    link: https://github.com/EIT-NLP/Efficient-Training
-    text: "\u9884\u89C8\u4EE3\u7801"
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1000/example.2023.003
-  type: book
-  year: 2023
-  title: Natural Language Processing in the Era of Large Language Models
-  authors:
-  - '**Xiaoyu Shen**'
-  publisher: Springer Nature
-  date: '2023-12-01'
-  description: "\u53D7\u9080\u64B0\u5199\u7684\u4E66\u7C4D\u7AE0\u8282\uFF0C\u63A2\
-    \u8BA8\u5927\u8BED\u8A00\u6A21\u578B\u65F6\u4EE3\u7684\u81EA\u7136\u8BED\u8A00\
-    \u5904\u7406\u6280\u672F\u53D1\u5C55\u3002\n"
-  tags:
-  - "\u4E66\u7C4D\u7AE0\u8282"
-  - "\u5927\u8BED\u8A00\u6A21\u578B"
-  - "\u6280\u672F\u53D1\u5C55"
-  plugin: sources.py
-  file: sources.yaml
