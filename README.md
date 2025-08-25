@@ -5,6 +5,6 @@
 
   # MidnightJump's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[midnightjump.github.io/test-lab-homepage-1](https://midnightjump.github.io/test-lab-homepage-1)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
