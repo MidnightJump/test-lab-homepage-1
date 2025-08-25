@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: MidnightJump
+title: EIT-NLP
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@MidnightJump.com
+  email: contact@eit.edu.cn
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: MidnightJump
-  twitter: MidnightJump
-  youtube: MidnightJump
+  github: https://github.com/eit-nlp-lab
+  # twitter: MidnightJump
+  # youtube: MidnightJump
 
 ### jekyll settings
 
