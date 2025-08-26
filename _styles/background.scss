@@ -17,9 +17,8 @@
   z-index: -1;
 }
 
-/* 非主页（分栏目页面）使用全黑背景 */
+/* 非主页（分栏目页面）使用半透明背景 */
 header:not([data-big]) .background:before {
-  background-image: none;
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.8);
   opacity: 1;
 }
