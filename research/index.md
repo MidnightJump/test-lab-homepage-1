@@ -1,7 +1,7 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
+  order: 2
   tooltip: 研究项目与成果
 ---
 
