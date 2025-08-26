@@ -1,4 +1,4 @@
---- --- .card {
+.card {
   display: inline-flex;
   justify-content: stretch;
   align-items: center;
@@ -11,23 +11,16 @@
   overflow: hidden;
   box-shadow: var(--shadow);
   vertical-align: top;
-  transition: transform 0.2s ease-in-out;
 }
 
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-}
-
-.card[data-style="small"] {
+.card[data-style=small] {
   width: 250px;
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 3/2;
   object-fit: cover;
   width: 100%;
-  // box-shadow: var(--shadow);
 }
 
 .card-text {
@@ -40,7 +33,7 @@
   padding: 20px;
 }
 
-.card-text>* {
+.card-text > * {
   margin: 0 !important;
 }
 
@@ -53,3 +46,5 @@
   margin-top: -10px !important;
   font-style: italic;
 }
+
+/*# sourceMappingURL=card.css.map */
