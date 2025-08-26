@@ -104,7 +104,7 @@
   date: '2024-10-09'
   link: http://arxiv.org/abs/2410.06765
   description: "近年来，多模态大型语言模型（MLLMs）引起了产业界和学术界的广泛关注。根据融合位置的不同，MLLMs分为外部融合和内部融合架构，其中外部融合架构占主导地位。本文系统地探讨了连接器对MLLM性能的影响。具体而言，我们将连接器分为保留特征型和压缩特征型两类。通过统一的分类标准，我们将来自三个综合基准数据集（MMBench、MME、SEED-Bench）的子任务划分为粗粒度感知、细粒度感知和推理三种任务类型。"
-  image: images/citations/2410_06765.png
+  image: images/citations/2410_06765.jpg
   buttons:
   - type: source
     link: https://github.com/EIT-NLP/Connector-Selection-for-MLLM
@@ -136,7 +136,7 @@
   date: '2024-10-04'
   link: https://arxiv.org/abs/2410.04691
   description: "微调和上下文学习（ICL）是两种常用的为大型语言模型注入任务特定知识的方法。通常认为，微调由于可以基于训练数据调整模型的内部参数，在有足够样本的情况下会优于ICL。然而，本文提出了一个反直觉的发现：对于隐式模式任务，ICL能够显著优于微调捕捉这些模式。我们构建了多个包含隐式模式的数据集，例如通过奇偶性确定答案的序列或在计算中识别可约项。"
-  image: images/citations/2410_04691.png
+  image: images/citations/2410_04691.jpg
   buttons:
   - type: source
     link: https://github.com/MikaStars39/ICLvsFinetune
@@ -199,7 +199,7 @@
   date: '2023-09-16'
   link: https://arxiv.org/pdf/2309.16289
   description: "我们提出了LawBench，这是第一个由20个任务组成的评估基准，旨在评估大型语言模型（LLMs）在处理中文法律相关任务中的表现。LawBench经过精心设计，能够从广泛接受的布卢姆认知分类法对应的三个认知层次上，精确评估LLMs的法律能力。利用LawBench，我们对21个热门LLMs进行了全面的评估，并首次对其实际表现进行了比较分析，揭示了它们的相对优势与劣势。"
-  image: images/citations/2309_16289.png
+  image: images/citations/2309_16289.jpg
   buttons:
   - type: source
     link: https://github.com/open-compass/LawBench/
