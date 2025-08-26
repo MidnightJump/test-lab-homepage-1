@@ -1,4 +1,4 @@
-.background {
+--- --- .background {
   position: relative;
   background: var(--background);
   color: var(--text);
@@ -17,4 +17,9 @@
   z-index: -1;
 }
 
-/*# sourceMappingURL=background.css.map */
+/* 非主页（分栏目页面）使用全黑背景 */
+header:not([data-big]) .background:before {
+  background-image: none;
+  background-color: #000000;
+  opacity: 1;
+}
