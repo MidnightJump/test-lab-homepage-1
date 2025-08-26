@@ -5,17 +5,67 @@ nav:
   tooltip: 课题组成员
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}团队
+# {% include icon.html icon="fa-solid fa-users" %}我们的团队
 
-我们是一个年轻而充满活力的研究团队，致力于推动自然语言处理领域的前沿研究。
+我们是一支充满活力的团队，由沈晓宇领导，成员包括博士、研究工程师和实习生。我们致力于开发创新算法，使机器能够真正理解、生成和推理人类语言。
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}  
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: masters" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+## PI 简介
+
+### 沈晓宇
+
+2015年本科毕业于南京大学软件学院，之后在德国马克斯普朗克信息研究所、萨尔大学研究生院获得博士学位，师从Gerhard Weikum和Dietrich Klakow。研究方向主要包括隐变量贝叶斯模型、对话生成、问答系统等。
+
+2020年9月加入Amazon Alexa AI柏林研发中心担任机器学习科学家职位，领导了 Alexa 智能客服商品问答项目。2023年11月加入东方理工高等研究院任副研究员、博士生导师，与上海交大、中科大和香港理工联合培养博士生。
+
+已在ACL、ICML、EMNLP、ICSE等人工智能和自然语言处理顶级会议发表多篇论文。获得过国家奖学金、南京大学优秀毕业生、优秀毕业设计、国家优秀海外自费留学生、COLING最佳demo论文奖、ACL最佳主题论文奖、CIS-RAM最佳论文奖提名等。
+
+曾多次在东京大学、剑桥大学、Google Brain等做特邀报告。是包括 ACL、EMNLP、AISTAS、NeurIPS、TOIS在内多个顶级会议和期刊的委员会成员、ACL 问答方向的领域主席和 High-Performance Computing for AI in Big Model Era 的主题编辑。
+
+{% include section.html %}
+
+## 成员
+
+### 行政助理
+
+* 徐颖 (伦敦大学国王学院)
+
+### 现有学生
+
+* PHD (Fall 2023) :童俊龙 （上海交大）
+* PHD (Fall 2024): 路璇 （上海交大）
+* PHD (Fall 2024): 陈星好 （港理工）
+
+### 研究工程师
+
+* 郏昕 （浙大，屯特大学）
+
+### 当前实习生
+
+* 赵桉颢（西南交大）
+* 周健群（湖南大学）
+* 林俊彦（中国海洋大学）
+* 范英祺（都柏林圣三一学院）
+* 孙智婧（伯克利->南加州大学）
+* 郭文瑾（新加坡国立大学）
+* 刘思凡（麦吉尔）
+* 尹伯超（西雅图华盛顿大学）
+* 郑倩倩（上海海事大学）
+* 梅田田（陕西理工大学）
+* 奚晓文（北京林业大学->南加州大学）
+
+### 曾实习
+
+* 朱大卫（亚马逊 AGI）
+* 陈彦俊（香港理工）
+* 王殿仪（复旦）
+* 焦舒健（浙大）
+* 隋佳璐（港大）
+* 孙艺荣（宁波诺丁汉大学）
+* 陈浩然（浙江工商大学）
+* 罗云浩（电子科技大学）
+* 陈世耿（伦敦大学国王学院）
 
 {% include section.html %}
 
