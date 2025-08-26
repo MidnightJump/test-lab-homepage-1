@@ -165,7 +165,7 @@
   date: '2024-06-18'
   link: https://arxiv.org/pdf/2406.18134
   description: "检索增强生成（Retrieval-augmented generation，RAG）作为一种通过外部知识增强大型语言模型的框架，近年来备受关注。然而，其有效性在很大程度上依赖于模型的检索稳健性。如果模型缺乏检索稳健性，其性能将受限于检索器的准确性，当检索到的上下文与任务无关时，模型表现可能大幅下降。在本文中，我们评估了不同大型语言模型的'隐式'检索稳健性，要求它们直接输出最终答案，而不显式判断检索到的上下文的相关性。"
-  image: images/citations/2406_18134.png
+  image: images/citations/2406_18134.jpg
   buttons:
   - type: website
     link: https://arxiv.org/pdf/2406.18134
