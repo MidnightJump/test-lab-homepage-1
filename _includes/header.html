@@ -9,7 +9,7 @@
 
 <header class="background" style="--image: url('{{ image | relative_url | uri_escape }}')" {% if dark==true or
   dark==false %} data-dark="{{ dark }}" {% endif %} {% if page.url=="/" %} data-big {% endif %}>
-  <a href="{{ " /" | relative_url }}" class="home">
+  <a href="{{ site.baseurl }}/" class="home">
     {% if logo %}
     <span class="logo">
       {% if svg %}
@@ -40,7 +40,7 @@
     %}
     {% for page in pages %}
     {% if page.nav %}
-    <a href="{{ page.dir | relative_url | uri_escape }}" data-tooltip="{{ page.nav.tooltip | xml_escape }}">
+    <a href="{{ site.baseurl }}{{ page.dir }}" data-tooltip="{{ page.nav.tooltip | xml_escape }}">
       {{ page.title }}
     </a>
     {% endif %}
