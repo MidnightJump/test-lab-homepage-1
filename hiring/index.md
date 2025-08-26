@@ -1,5 +1,5 @@
 ---
-title: Recruitment
+title: 招聘
 nav:
   order: 4
   tooltip: 加入我们
