@@ -11,10 +11,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@eit.edu.cn
+  # email: contact@eit.edu.cn
   # orcid: 0000-0001-8713-9213
   # google-scholar: ETJoidYAAAAJ
-  github: https://github.com/eit-nlp
+  github: eit-nlp
   # twitter: MidnightJump
   # youtube: MidnightJump
 
